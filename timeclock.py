@@ -41,7 +41,7 @@ periods = dict(annual=dict(months=12), semiannual=dict(months=6), triannual=dict
 
 def period_passed(last_dt, period='annual'):
     """
-    Has this period of time passed since the given date?
+    Has this period of time passed since the given date?t
 
     Period options: annual, semi-annual, tri-annual, quarterly, bimonthly, monthly, semi-monthly, weekly, daily.
 
