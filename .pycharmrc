@@ -1,1 +1,3 @@
+source ~/.bashrc
 source ~/study/timeclock/bin/activate
+export PATH=/Users/User/bin/flyway-4.0.3:$PATH
